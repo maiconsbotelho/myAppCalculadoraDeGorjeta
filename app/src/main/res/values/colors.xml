@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffa742</color>
+    <color name="colorPrimaryDark">#e88c2a</color>
+    <color name="colorSecondary">#ffb452</color>
+    <color name="corFundo">#FFFFFF</color>
+    <color name="corTexto">#FF000000</color>
+    <color name="laranja_claro">#FFD470</color>
+</resources>
